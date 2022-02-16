@@ -53,5 +53,6 @@ C:\Users\Utente\Desktop\Notes\Notes\Notes.iOS\obj\iPhone\Debug\coremlc\_BundleRe
 C:\Users\Utente\Desktop\Notes\Notes\Notes.iOS\obj\iPhone\Debug\optimized\
 C:\Users\Utente\Desktop\Notes\Notes\Notes.iOS\obj\iPhone\Debug\Notes.iOS.csproj.AssemblyReference.cache
 C:\Users\Utente\Desktop\Notes\Notes\Notes.iOS\obj\iPhone\Debug\Notes.iOS.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\Notes\Notes\Notes.iOS\obj\iPhone\Debug\Notes.iOS.csproj.CopyComplete
 C:\Users\Utente\Desktop\Notes\Notes\Notes.iOS\obj\iPhone\Debug\Notes.iOS.exe
 C:\Users\Utente\Desktop\Notes\Notes\Notes.iOS\obj\iPhone\Debug\Notes.iOS.pdb

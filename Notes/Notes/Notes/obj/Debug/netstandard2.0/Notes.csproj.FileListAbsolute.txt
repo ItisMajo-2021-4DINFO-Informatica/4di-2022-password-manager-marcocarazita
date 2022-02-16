@@ -15,3 +15,4 @@ C:\Users\Utente\Desktop\Notes\Notes\Notes\obj\Debug\netstandard2.0\XamlC.stamp
 C:\Users\Utente\Desktop\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.dll
 C:\Users\Utente\Desktop\Notes\Notes\Notes\obj\Debug\netstandard2.0\ref\Notes.dll
 C:\Users\Utente\Desktop\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.pdb
+C:\Users\Utente\Desktop\Notes\Notes\Notes\obj\Debug\netstandard2.0\Views\NoteEntryPage.xaml.g.cs
